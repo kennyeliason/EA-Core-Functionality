@@ -1,4 +1,8 @@
 {
-      "type": "vcs",
-      "url": "git@bitbucket.org:kennyeliason/EA-Core-Functionality.git"
-}
+    "name": "kennyeliason/EA-Core-Functionality",
+    "version": "master",
+    "type": "wordpress-plugin",
+    "dist": {
+        "url": "git@bitbucket.org:kennyeliason/EA-Core-Functionality.git",
+        "type": "git"
+    }
