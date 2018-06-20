@@ -1,6 +1,6 @@
 {
     "name": "kennyeliason/EA-Core-Functionality",
-    "version": "master",
+    "version": "dev-master",
     "type": "wordpress-plugin",
     "dist": {
         "url": "git@bitbucket.org:kennyeliason/EA-Core-Functionality.git",
